@@ -47,11 +47,12 @@ with depositing/withdrawing money as that may be very stressful for a user.
 
 Manual testing is useful for testing key functionalities, ensuring the proper due diligence has been taken to make sure everything works as intended.
 Exploratory testing is an ad hoc form of testing which may highlight issues that aren't initially apparent. For example, two separate functions may work as intended, and work independently, but may break 
-when used consecutively. This issue would be far more likely to be found when doing exploratory testing. Both methods play different roles and are best when used in conjunction.
+when used consecutively. This issue would be far more likely to be found when doing exploratory testing. Exploratory testing is more creative, we were trying to think of ways to break the system and because of this we were able to test use cases that would be less used.
+Both methods play different roles and are best when used in conjunction.
 
 # Notes and discussion of the peer reviews of defect reports
 
-Some of the bug reports reported by jacob and brian were bugs that colin and I missed and some that we found, they missed. So them doing testing seperate from us and each group doing reviews of each others bug reports was definetly useful for finding issues. Peer reviewing of bug reports was also helpful in the sense that some of the "bugs" we found may been up for debate if they were actually bugs or not. For example all the acount types were shown on the withdrawal and transfer pages even if the user didnt have for say a money market acount. One team thought this might be a bug as it allowed the user to select it and select a withdrawal amount before telling them it was an invalid acount type. However the other team thought this wasnt a bug and just part of the design of the system. So peer reviewing of bug reports brought up the discussion and helped up resolve issues such as this.
+Working in pairs was beneficial as during the exploratory testing many of the bugs both groups found were different from those of the other group's. We were able to find more bugs in this way than we would have working as a group of four. Peer reviewing of bug reports was also helpful in the sense that some potential bugs found may have been features. For example all three of the account types were shown on the pages even if the user didn't have an account of some type. One team thought this might be a bug as it allowed the user to select it and select a withdrawal amount before being notified that the account type was invalid. However, the other team thought this was an intended feature. So peer reviewing of bug reports brought up the discussion and helped up resolve issues such as this.
 
 # How the pair testing was managed and team work/effort was divided 
 
