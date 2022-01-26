@@ -32,7 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-We have done unit testing previously in an previous class. We also have done some "exploritory testing" (although we didnt know that this is what we were doing) while building personal projects. Other than that we had some understanding of manual testing from the course lectures but no real experience.
+We have done unit testing previously in a previous class. We also have done some "exploratory testing" (although we didn't know that this is what we were doing) while building personal projects. Other than that we had some understanding of manual testing from the course lectures but no real experience.
 
 
 # High-level description of the exploratory testing plan
@@ -63,4 +63,5 @@ We had some initial difficulties understanding the backlog system. It would appe
 
 # Comments/feedback on the lab and lab document itself
 
-This was a wonderful lab, well done to whoever designed it!
+This was an interesting lab as using a website like backlog would be something that we will probably encounter when actually working in the real world. It was fun to work in pairs finding bugs in this system, though there seemed to be a lot.
+
