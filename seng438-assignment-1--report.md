@@ -32,7 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-We have done unit testing previously which was essentially exploratory testing. Other than that we had some understanding of manual testing from the course lectures but no real experience.
+We have done unit testing previously in an previous class. We also have done some "exploritory testing" (although we didnt know that this is what we were doing) while building personal projects. Other than that we had some understanding of manual testing from the course lectures but no real experience.
 
 
 # High-level description of the exploratory testing plan
