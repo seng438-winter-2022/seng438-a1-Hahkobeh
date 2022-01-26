@@ -63,4 +63,4 @@ We had some initial difficulties understanding the backlog system. It would appe
 
 # Comments/feedback on the lab and lab document itself
 
-This was a wonderful lab, well done to whoever designed it!
+This was an interesting lab as using a website like backlog would be something that we will probably encounter when actually working in the real world. It was fun to work in pairs finding bugs in this system, though there seemed to be a lot. Additionally there seemed to be some abiguity on if the group worked in pairs for certain testing phases. 
