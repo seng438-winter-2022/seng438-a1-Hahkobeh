@@ -32,7 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-We have done unit testing previously in a previous class. We also have done some "exploratory testing" (although we didn't know that this is what we were doing) while building personal projects. Other than that we had some understanding of manual testing from the course lectures but no real experience.
+We have done unit testing previously in an previous class. We also have done some "exploritory testing" (although we didnt know that this is what we were doing) while building personal projects. Other than that we had some understanding of manual testing from the course lectures but no real experience.
 
 
 # High-level description of the exploratory testing plan
@@ -51,7 +51,7 @@ when used consecutively. This issue would be far more likely to be found when do
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Some of the bug reports reported by jacob and brian were bugs that me and colin missed and some that we found, they missed. So them doing testing seperate from us and each group doing reviews of each others bug reports was definetly useful for finding issues. Peer reviewing of bug reports was also helpful in the sense that some of the "bugs" we found may been up for debate if they were actually bugs or not. For example all the acount types were shown on the withdrawal and transfer pages even if the user didnt have for say a money market acount. One team thought this might be a bug as it allowed the user to select it and select a withdrawal amount before telling them it was an invalid acount type. However the other team thought this wasnt a bug and just part of the design of the system. So peer reviewing of bug reports brought up the discussion and helped up resolve issues such as this.
 
 # How the pair testing was managed and team work/effort was divided 
 
@@ -63,6 +63,4 @@ We had some initial difficulties understanding the backlog system. It would appe
 
 # Comments/feedback on the lab and lab document itself
 
-This was an interesting lab as using a website like backlog would be something that we will probably encounter when actually working in the real world. It was fun to work in pairs finding bugs in this system, though there seemed to be a lot. Additionally there seemed to be some abiguity on if the group worked in pairs for certain testing phases. 
-
-
+This was a wonderful lab, well done to whoever designed it!
