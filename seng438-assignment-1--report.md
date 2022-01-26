@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:       | 5                |
+|-----------------|------------------|
+| Student Names:  | Jacob Artuso     |
+|                 | Brian Kramer     |
+|                 | Colin Christophe |
+|                 | Nicholas Knapton |
 
 **Table of Contents**
 
@@ -37,7 +37,11 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+We want to test the system as if we were a user, we will test all features generally in order to 
+make sure that the system functions well as a whole.  Therefore, we want to test the most common paths. 
+We will focus on functionalities such as depositing and withdrawing to specific accounts. We want our 
+system to work for the most amount of users. While also ensuring no large bugs exist when working 
+with depositing/withdrawing money as that may be very stressful for a user.
 
 # Comparison of exploratory and manual functional testing
 
